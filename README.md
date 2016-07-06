@@ -15,3 +15,7 @@ You can print as many copies as you want (of any size you want) for personal and
 I need some time to polish the poster source to release it. If this repo will become popular and reach 2000 stars, I'll release the poster and it's source under MIT license!
 
 Enjoy, and happy printing!
+
+### Credits
+
+Thanks to [BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) and everyone who contributed to this list for their hard work.
