@@ -8,14 +8,14 @@ It took me few days to fit already exiting information to the single page and ma
 
 ### License
 
-You can print as many copies as you want (of any size you want) for personal and business needs. You can't modify the poster.
+You can print as many copies as you want (of any size you want) for personal and business needs. You can modify the poster.
 
-### Star to Open Source
+### Open Source?
 
-I need some time to polish the poster source to release it. If this repo will become popular and reach 2000 stars, I'll release the poster and it's source under MIT license!
-
-Enjoy, and happy printing!
+Seems like this repo became popular, which I didn't expect. Please give me some time to polish the source and release it under MIT [Creative Commons?] license. Thank you!
 
 ### Credits
 
 Thanks to [BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) and everyone who contributed to this list for their hard work.
+
+Enjoy, and happy printing!
