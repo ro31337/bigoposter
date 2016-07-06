@@ -16,6 +16,7 @@ Seems like this repo became popular, which I didn't expect. Please give me some 
 
 ### Credits
 
-Thanks to [BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) and everyone who contributed to this list for their hard work.
+* [BigORef](https://github.com/josem/bigoref) ([website](http://bigoref.com/)) - José, thanks for your improvements for Bit-O Cheatsheet.
+* [BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) ([website](http://bigocheatsheet.com/)) and everyone who contributed to this list for their hard work!
 
 Enjoy, and happy printing!
