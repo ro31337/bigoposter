@@ -10,10 +10,6 @@ It took me few days to fit already exiting information to the single page and ma
 
 You can print as many copies as you want (of any size you want) for personal and business needs. You can modify the poster.
 
-### Open Source?
-
-Seems like this repo became popular, which I didn't expect. Please give me some time to polish the source and release it under MIT [Creative Commons?] license. Thank you!
-
 ### Credits
 
 * [BigORef](https://github.com/josem/bigoref) ([website](http://bigoref.com/)) - José, thanks for your improvements to Big-O Cheatsheet.
